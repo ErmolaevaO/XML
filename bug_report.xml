@@ -1,0 +1,6 @@
+
+<id> 1 </id>
+<summary> Incorrect application dialog name </summary>
+<description> the wrong App name is displayed in the upper left corner of the running app </description>
+<severity> Major </severity>
+<priority> High </priority> 
